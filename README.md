@@ -41,3 +41,5 @@ This chapter discusses some open issues in surrogate-assisted optimization.  The
 7.Noisy problems
 
 8.High dimensional problems
+
+To the best of my knowledge, there are only a few algorithms to solve expensive discrete optimization problems (EDOPs). However, EDOPs frequently arise in real-world applications. Therefore, developing effective algorithms to deal with EDOPs is an interesting research direction.   
