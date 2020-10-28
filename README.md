@@ -32,7 +32,7 @@ This chapter discusses some open issues in surrogate-assisted optimizaiton.  The
 
 3. Surrogate ensemble
 
-**4.Combinatorial/discrete search space**
+**4. Combinatorial/discrete search space**
 
 5. Multiobjective optimization problems
 
