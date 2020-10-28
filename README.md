@@ -1,8 +1,8 @@
 # Bibliography
 
-> Optimization-ML, See for more detail notes on [Reading_Notes](./Reading_Notes.md)
+> Model-based Optimization, see for more detail notes on [Reading_Notes](./Reading_Notes.md)
 
-Contributed by Xi Lin and Zhiyuan Yang.
+Contributed by Genghui Li, Fei Liu and Liang Zhao.
 
 
 
