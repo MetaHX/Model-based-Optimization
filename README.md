@@ -18,7 +18,7 @@ A sample
 
 # Table of contents
 
-- [Sruvey about Simulation-based Optimization ](#Multi-Task-Learning)
+- [Sruvey about Simulation-based Optimization ](#Survey paper)
 - [Generative Adversarial Nets](#Generative-Adversarial-Nets)
 
 
@@ -29,7 +29,7 @@ A sample
 
 
 
-## [Multi Task Learning](#Table-of-contents)
+## [Sruvey about Simulation-based Optimization](#Table-of-contents)
 
 ### Survey
 - [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang **`(2017)`**
