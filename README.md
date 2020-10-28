@@ -24,7 +24,7 @@ Contributed by Genghui Li, Fei Liu and Liang Zhao.
 This chapter discusses some open issues in surrogate-assisted optimizaiton.  The main open issues are: 
 1. Construct an adequate of Benchmark or test functions 
 2. Constraint handling 
-3. Surrogate ensemble 
+3. Surrogate ensemble  
 **`4. Combinatorial/discrete search space`**
 5. Multiobjective optimization problems
 6. Dynamic problems
