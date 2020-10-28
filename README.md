@@ -26,7 +26,7 @@ Contributed by Genghui Li, Fei Liu and Liang Zhao.
 
 This chapter discusses some open issues in surrogate-assisted optimizaiton.  The main open issues are:
 
-1. Construct an adequate of Benchmark or test functions 
+1.Construct an adequate of Benchmark or test functions 
 
 2. Constraint handling 
 
