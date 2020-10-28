@@ -20,6 +20,7 @@ Contributed by Genghui Li, Fei Liu and Liang Zhao.
 ## [Sruvey about Simulation-based Optimization](#Table-of-contents)
 
 ### Survey
+
 - **`Open Issues`** [Open Issues in Surrogate-Assisted Optimization](https://link.springer.com/chapter/10.1007/978-3-030-18764-4_10), J. Stork **`(2020)`** **`[Book:High-Performance Simulation-Based Optimization ]`**
 
 This chapter discusses some open issues in surrogate-assisted optimizaiton.  The main open issues are:
@@ -30,7 +31,7 @@ This chapter discusses some open issues in surrogate-assisted optimizaiton.  The
 
 3. Surrogate ensemble
 
-**`4.Combinatorial/discrete search space`**
+**4.Combinatorial/discrete search space**
 
 5. Multiobjective optimization problems
 
