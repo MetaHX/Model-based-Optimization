@@ -6,20 +6,11 @@ Contributed by Genghui Li, Fei Liu and Liang Zhao.
 
 
 
-Template
-
-- **`(optional)abbr`** [title with link](https://arxiv.org/), main author **`(year)`** **`[conference/journal]`**
-
-A sample
-
-- **`Pareto MTL`** [Pareto Multi-Task Learning](https://arxiv.org/abs/1912.12854), Xi Lin **`(2019)`** **`[NeurIPS]`**
-
-
 
 # Table of contents
 
 - [Sruvey about Simulation-based Optimization ](#Survey paper)
-- [Generative Adversarial Nets](#Generative-Adversarial-Nets)
+
 
 
 
@@ -32,6 +23,9 @@ A sample
 ## [Sruvey about Simulation-based Optimization](#Table-of-contents)
 
 ### Survey
+- **`Open Issues`** [Open Issues in Surrogate-Assisted Optimization](https://link.springer.com/chapter/10.1007/978-3-030-18764-4_10), J. Stork **`(2020)`** **`[Book:High-Performance Simulation-Based Optimization ]`**
+
+
 - [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang **`(2017)`**
 
 - [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098), Sebastian Ruder **`(2017)`**
