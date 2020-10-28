@@ -28,16 +28,16 @@ This chapter discusses some open issues in surrogate-assisted optimizaiton.  The
 
 1.Construct an adequate of Benchmark or test functions 
 
-2. Constraint handling 
+2.Constraint handling 
 
-3. Surrogate ensemble
+3.Surrogate ensemble
 
-**4. Combinatorial/discrete search space**
+**`4.Combinatorial/discrete search space`**
 
-5. Multiobjective optimization problems
+5.Multiobjective optimization problems
 
-6. Dynamic problems
+6.Dynamic problems
 
-7. Noisy problems
+7.Noisy problems
 
-8. High dimensional problems
+8.High dimensional problems
