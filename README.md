@@ -46,7 +46,7 @@ To the best of my knowledge, there are only a few algorithms to solve expensive 
 
 ### Methods 
 
-- **`IOU-C`** [Input-output Uncertainty Comparisions for discrete Optimization via Simulation](https://pubsonline.informs.org/doi/pdf/10.1287/opre.2018.1796), E. Song**`(2019)`** **`[Operations Research]`**
+- **`IOU-C`** [Input-output Uncertainty Comparisions for discrete Optimization via Simulation](https://pubsonline.informs.org/doi/pdf/10.1287/opre.2018.1796), E. Song **`(2019)`** **`[Operations Research]`**
 
 A new concept: input model risk that when we make decisions based on the simulation outputs, we are subject to the risk of making suboptimal decisions when the input models do not faithfully represent the real-world stochastic process.
 
