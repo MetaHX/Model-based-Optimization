@@ -9,7 +9,7 @@ Contributed by Genghui Li, Fei Liu and Liang Zhao.
 
 # Table of contents
 
-- [Sruvey about Simulation-based Optimization ](#Survey paper)
+- [Sruvey about Simulation-based Optimization](#Survey-paper)
 
 
 
